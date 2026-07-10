@@ -12,6 +12,7 @@ Cadenas/
 *.Rproj
 .Rhistory
 .RData
+.RDataTmp
 .Ruserdata
 .Rapp.history
 
