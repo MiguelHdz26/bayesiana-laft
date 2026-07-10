@@ -1,0 +1,27 @@
+# Archivos especificos
+DAGs.pptx
+
+
+# Directorios
+Latex/
+Poster/
+Cadenas/
+
+# Archivos de proyecto y configuración local de RStudio
+.Rproj.user/
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+
+# Paquetes y cachés 
+renv/library/
+renv/local/
+renv/staging/
+.Rprofile
+
+
+# Archivos ocultos que generan Windows o Mac automáticamente
+.DS_Store
+Thumbs.db
