@@ -1,0 +1,9 @@
+Orden en el que se corren los codigos segun el formato del documento
+1. analisis_descriptivo
+2. Transformacion_variables
+3. mapas_final (este combina mapas de varias secciones)
+4. todos los modelos (1, 2, 3)
+5. procesamiento_post (donde se usan las cadenas generadas)
+6. k_means
+
+Los archivos que empiezan por 'fun' se especifica donde se deben cargar. 
